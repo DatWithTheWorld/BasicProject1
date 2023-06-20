@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Implementation-Title: SpringBootRegistrationLogin
+Implementation-Version: 1.0
+Main-Class: com.pixelTrice.loginBwd2023Application.LoginBwd2023Applicati
+ on
+Created-By: Maven Integration for Eclipse
+
